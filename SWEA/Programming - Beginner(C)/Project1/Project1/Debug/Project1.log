@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(495,5): warning MSB8003: WindowsSDKDir 속성이 정의되지 않았습니다. 일부 빌드 도구를 찾을 수 없습니다.
+  01_C를배워야하는이유.c
+C:\Users\aze14\Desktop\SamSung Experts Academy\Programming - Beginner(C)\Project1\Project1\01_C를배워야하는이유.c(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'stdio.h': No such file or directory
